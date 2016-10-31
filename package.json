@@ -1,0 +1,26 @@
+{
+  "name": "reset-password",
+  "version": "1.0.0",
+  "description": "Using nodemailer and express-session to reset password.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ZCH2005/RestPassword.git"
+  },
+  "author": "zhang chang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ZCH2005/RestPassword/issues"
+  },
+  "homepage": "https://github.com/ZCH2005/RestPassword#readme",
+  "dependencies": {
+    "body-parser": "^1.15.2",
+    "ent": "^2.2.0",
+    "express": "^4.14.0",
+    "express-session": "^1.14.2",
+    "nodemailer": "^2.6.4"
+  }
+}
